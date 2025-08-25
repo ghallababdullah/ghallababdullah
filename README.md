@@ -1,5 +1,5 @@
 # 💫 About Me:
-# 👋 Hi, I’m [Abdullah]
+# 👋 Hi, I’m Abdullah
 
 I’m a **junior programmer** passionate about backend development, automation, and DevOps.  
 Always curious and eager to learn, I enjoy building practical solutions and contributing to real-world projects.  
