@@ -1,5 +1,44 @@
 # 💫 About Me:
-👋 About Me<br><br>Hi, I’m [Abdullah], a junior programmer passionate about building reliable and scalable software solutions.<br><br>💻 Tech Stack<br><br>Backend Development: Java, Spring Boot, PostgreSQL<br><br>Scripting & Automation: Python (currently building Telegram bots)<br><br>DevOps & Infrastructure (learning and improving): Docker, Linux, Ansible, Kubernetes, Vagrant<br><br>🌱 What I’m Working On<br><br>Sharpening my backend development skills<br><br>Expanding my knowledge in DevOps tools and practices<br><br>Building small projects to grow my Python skills<br><br>🤝 Soft Skills<br><br>Strong communication & teamwork abilities<br><br>Eager and fast learner<br><br>Multilingual: Arabic 🇸🇦 | Russian 🇷🇺 | English 🇬🇧<br><br>🚀 Career Goals<br><br>I’m actively looking for opportunities to grow as a software developer, contribute to real-world projects, and learn from experienced teams.
+# 👋 Hi, I’m [Abdullah]
+
+I’m a **junior programmer** passionate about backend development, automation, and DevOps.  
+Always curious and eager to learn, I enjoy building practical solutions and contributing to real-world projects.  
+
+---
+
+## 💻 Tech Stack
+- **Backend Development**: Java, Spring Boot, PostgreSQL  
+- **Scripting & Automation**: Python (currently building Telegram bots)  
+- **DevOps & Infrastructure (learning & growing)**: Docker, Linux, Ansible, Kubernetes, Vagrant  
+
+---
+
+## 🌱 What I’m Working On
+- Improving my backend development skills  
+- Exploring Python for automation & small projects  
+- Expanding my DevOps knowledge with modern tools  
+
+---
+
+## 🤝 Soft Skills
+- 🔹 Strong communication & teamwork  
+- 🔹 Problem-solving & critical thinking  
+- 🔹 Adaptability & fast learner  
+- 🔹 Attention to detail & analytical mindset  
+- 🔹 Creativity & continuous improvement mindset  
+- 🔹 Time management & self-organization  
+
+---
+
+## 🌍 Languages
+- Arabic 🇸🇦  
+- Russian 🇷🇺  
+- English 🇬🇧  
+
+---
+
+## 🚀 Career Goals
+I’m actively looking for opportunities to grow as a **software developer**, collaborate with talented teams, and contribute to impactful projects. 
 
 
 ## 🌐 Socials:
